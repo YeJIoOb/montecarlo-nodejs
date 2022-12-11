@@ -1,0 +1,5 @@
+build
+result.json
+values.json
+dist
+node_modules
